@@ -1,4 +1,4 @@
-# 📽Movie Streaming
+# 📽Movie Streaming App
 
 Movie Streaming is a  movie watching app like netflx. You can sit for hours and hours and watch movies. This app developed with Kotlin and MVVM architecture. The server of this application  is LocalHost
 
